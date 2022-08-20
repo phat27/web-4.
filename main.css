@@ -9,7 +9,7 @@ html {
   background-color: #a6a6a6;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 599px) {
   .nav {
     width: 100%;
     min-height: 10px;
